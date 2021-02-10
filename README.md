@@ -3,7 +3,7 @@ QOSF mentorship program task2
 
 This repository contains following two files in addition to README.md:
 
-task2_code.ipynb
+task2_code.ipynb \n
 task2_code.pdf
 
 visit [nbviewer]() for a better rendering.
