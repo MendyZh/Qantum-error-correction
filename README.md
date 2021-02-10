@@ -7,3 +7,5 @@ CODES.ipynb
 repott.pdf
 
 visit [nbviewer]() for a better rendering.
+
+Thanks to all the mentors and organizers for this fantastic program!
